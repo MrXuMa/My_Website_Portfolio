@@ -413,3 +413,8 @@ footer p {
   width: 150px;
 }
 
+.badge{
+  cursor: pointer;
+  height: 4rem;
+  size: 110%;
+}
